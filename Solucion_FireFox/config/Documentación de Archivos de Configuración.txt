@@ -1,0 +1,45 @@
+//El Parámetro Empresa, se refiere al índice de la empresa del sistema con la que se quiere realizar la prueba.
+//El índice numérico comienza como todo array, con la primer coincidencia como 0
+
+
+CP1:Correo,Contraseña
+
+CP2:Correo,Contraseña,Apellido,ContraseñaCuentaSR
+
+CP3:Correo,Contraseña
+
+CP4:Correo,Contraseña
+
+CP5:Correo,Contraseña,Identificador fiscal de la nueva empresa,Razón social,nombre comercial,alias,correo electrónico,teléfono,teléfono alternativo,calle,número exterior,número interior,código postal
+//para el CP 5 es necesario contar con una imagen en la galería de softrestaurant app
+
+CP6:Correo,Contraseña,Empresa,descripción del restaurante,numero de minutos mínimo de espera para pasar a recoger, número de minutos máximo de espera,número de cambio del repartidor,número de tarjeta,expiración de la tarjeta,clave de la tarjeta,correo al que se notificará
+
+CP7:Correo,Contraseña,Empresa
+
+CP8:Correo,Contraseña,Empresa,CP,Nombre de la zona,Costo de envío
+
+CP10:Correo,Contraseña,Empresa,NombreGrupo,SubGrupo
+
+CP11:Correo,Contraseña,Empresa,NombreSubgrupo,NombreGrupo
+
+CP12:Correo,Contraseña,Empresa
+
+CP13:Correo,Contraseña,Empresa
+
+CP14:Correo,Contraseña,Empresa,Descripción,NombreEsquema,NombreImpuesto,Nombrecorto,Cantidad
+
+CP15:Correo,Contraseña,Empresa,Indice del impuesto que se va a editar(empezando por 0),NombreEsquema,NombreImpuesto,Nombrecorto,
+
+CP16:Correo,Contraseña,Empresa,NombreProducto,Descripción,Precio,Comentario
+
+CP17:Correo,Contraseña,Empresa,Selector1,SelectorImpuesto,Cantidad
+
+CP18:Correo,Contraseña,Empresa
+
+CP19:Correo,Contraseña,NombreCampaña,DescripciónCampaña,Num presupuesto,nombreCupón,DescripciónCupón,CódigoCupón,PresupuestoCupon,ValorCupon,CantidadCupones,MaximoRedencionesPorCupon,CompraMinima,DescuentoMaximo
+CP20:Usa el del CP19
+
+CP21:Correo,Contraseña,Empresa,nombreCupón,DescripciónCupón,CódigoCupón,PresupuestoCupon,ValorCupon,CantidadCupones,MaximoRedencionesPorCupon,CompraMinima,DescuentoMaximo
+
+CP22:Correo,Contraseña,Empresa

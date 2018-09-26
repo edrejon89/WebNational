@@ -1,0 +1,1 @@
+walook.pruebas@gmail.com,PruebasWa100k,Campaña,Descripcion,300000,Cupon,Descripcion cupon,1234,30000,30,8,1,100,30
